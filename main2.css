@@ -1,0 +1,64 @@
+body{
+    background:
+    url("http://www.anawalls.com/images/space/galaxy-stars-universe-light-planet.jpg");
+}
+
+.col{
+    width: 30%;
+    height: 500px;
+    background: #665871;
+    display: inline-block;
+    margin: 0px px;
+    box-sizing: border-box;
+    border-radius:5px;
+}
+
+.all{
+    width: 90%;
+    margin: 0px auto;
+}
+
+.bottom{
+    background: #ffffff;
+    width: 30%;
+    height: 250px;
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: -30.33%;
+    box-sizing: border-box;
+    border-radius:5px;
+}
+
+.tx1{
+    background: rgba(255, 255, 255, 0);
+    width: 30%;
+    height: 500px;
+    margin-left: -0%;
+    margin-top: -500px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.tx2{
+    background: rgba(255, 255, 255, 0);
+    width: 30%;
+    height: 500px;
+
+    float:none;
+    margin-left: 0%;
+    margin-top: -500px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.tx3{
+    background: rgba(255, 255, 255, 0);
+    width: 30%;
+    height: 500px;
+
+    float:none;
+    margin-left: 0%;
+    margin-top: -500px;
+    box-sizing: border-box;
+    display: inline-block;
+}
